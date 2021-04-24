@@ -4,7 +4,7 @@ title: "Nessus"
 date: 2021-04-24
 description: This is a article to teach people on a very basic level about how to use Nessus and list some resources to learn and practice with this tool.
 series: ["Formal Documentation"]
-tags: ["Git","Github","Tryhackme"]
+tags: ["Nessus","Vulnerbaility Scanner","Web Apps", "Network Security"]
 categories: ["Offensive Hacking"]
 ShowBreadCrumbs: true
 --- 
