@@ -1,5 +1,5 @@
-baseURL: "https://swanandx.github.io/blog/"
-title: swanandx's blog
+baseURL: "https://nickapic.github.io/blog/"
+title: CyberSecurity Resource Library
 paginate: 5
 theme: PaperMod
 
@@ -11,7 +11,7 @@ buildExpired: false
 enableEmoji: true
 
 minify:
-    disableXML: true
+  disableXML: true
 
 # languages:
 #     en:
@@ -32,69 +32,66 @@ menu:
       url: categories/
       weight: 10
 
-
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
-    author: Swanand
-    defaultTheme: auto
-    ShowShareButtons: true
-    ShowReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowToc: true
+  author: Class3E
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowToc: true
 
-    homeInfoParams:
-        Title: "Hii 👋 Namaskar 🙏"
-        Content: >
-            😄 Welcome to my blog.
+  homeInfoParams:
+    Title: "Cyber Security Resource Library 👋 🙏"
+    Content: >
+      😄 Welcome to our Resource Library.
 
-            - 📝 Here I share my knowledge and thoughts.
+      - 📝 Here we wanna make life easier for all the people trying to get into CyberSecurity.
 
-            - ⚡️ Enjoy your stay and happy reading <3.
-
-    socialIcons:
-        - name: github
-          url: "https://github.com/swanandx"
-        - name: twitter
-          url: "https://twitter.com/_swanandx"
+  socialIcons:
+    - name: github
+      url: "https://github.com/nickapic"
+    - name: twitter
+      url: "https://twitter.com/aniketchauhan1"
 
 taxonomies:
-    category: categories
-    tag: tags
-    series: series
+  category: categories
+  tag: tags
+  series: series
 
 markup:
-     goldmark:
-        renderer:
-            unsafe: true
+  goldmark:
+    renderer:
+      unsafe: true
 
 privacy:
-    vimeo:
-        disabled: false
-        simple: true
+  vimeo:
+    disabled: false
+    simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
 
-    instagram:
-        disabled: false
-        simple: true
+  instagram:
+    disabled: false
+    simple: true
 
-    youtube:
-        disabled: false
-        privacyEnhanced: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
 
 services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
