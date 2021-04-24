@@ -1,4 +1,4 @@
-baseURL: "https://nickapic.github.io/blog/"
+baseURL: "https://nickapic.github.io/"
 title: CyberSecurity Resource Library
 paginate: 5
 theme: PaperMod
