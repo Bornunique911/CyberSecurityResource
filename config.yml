@@ -1,5 +1,5 @@
 baseURL: "https://nickapic.github.io/"
-title: CyberSecurity Resource Library
+title: Class3E Resource Library
 paginate: 5
 theme: PaperMod
 
@@ -54,13 +54,15 @@ params:
     Content: >
       😄 Welcome to our Resource Library.
 
-      - 📝 Here we wanna make life easier for all the people trying to get into CyberSecurity.
+      - 📝 We wanna make life easier for all the people trying to get into CyberSecurity.
 
   socialIcons:
     - name: github
       url: "https://github.com/nickapic"
     - name: twitter
       url: "https://twitter.com/aniketchauhan1"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/nickapic/"
 
 taxonomies:
   category: categories

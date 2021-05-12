@@ -44,3 +44,5 @@ and we can show the whole commit and all the files in that commit there
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd2df77c-6d76-42ad-80cc-8b5d63977b27/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd2df77c-6d76-42ad-80cc-8b5d63977b27/Untitled.png)
 
 and there you go we can see the password which is the flag here and again if you find this as a bug bounty you can report and its gonna be a pretty good payout for that because this will let us track all the code and all sensitive information in the commits if there ever was something.
+
+## Resources :
